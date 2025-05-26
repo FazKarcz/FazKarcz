@@ -48,15 +48,15 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR4M2ZzZDY3Z2s3dm42MTcwN3gwbXB5cGMwMGJsNTM1ZmJ3anJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"  />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FazKarcz/FazKarcz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FazKarcz/FazKarcz/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/FazKarcz/FazKarcz/output/github-snake.svg" style="max-height: 150px;" />
+  </picture>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FazKarcz/FazKarcz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FazKarcz/FazKarcz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FazKarcz/FazKarcz/output/github-snake.svg" />
-</picture>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR4M2ZzZDY3Z2s3dm42MTcwN3gwbXB5cGMwMGJsNTM1ZmJ3anJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" alt="gif" style="height: 150px; margin-left: 20px;" />
+</div>
 
 ###
 
