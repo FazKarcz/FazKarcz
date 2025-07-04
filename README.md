@@ -5,7 +5,25 @@
 <p align="left">🚀 Languages and Tools I Use:</p>
 
 <div align="left">
-<table> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /> C#</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" /> C++</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" /> Django</td> <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" /> PyTorch</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" /> Pandas</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" /> Oracle DB</td> <td><img src="https://cdn.simpleicons.org/mysql/4479A1" height="20" /> MySQL</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" /> SQLite</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" /> VS Code</td> <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="20" /> Docker</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" /> HTML5</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" /> CSS3</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" /> Linux</td> <td><img src="https://cdn.simpleicons.org/godotengine/478CBF" height="20" /> Godot Engine</td> </tr> <tr> <td><img src="https://cdn.simpleicons.org/unity/FFFFFF" height="20" /> Unity</td> <td><img src="https://cdn.simpleicons.org/git/F05032" height="20" /> Git</td> </tr> </table>
+  <ul>
+    <li>Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /></li>
+    <li>C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /></li>
+    <li>C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" /></li>
+    <li>Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" /></li>
+    <li>PyTorch <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" /></li>
+    <li>Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" /></li>
+    <li>Oracle DB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" /></li>
+    <li>MySQL <img src="https://cdn.simpleicons.org/mysql/4479A1" height="20" /></li>
+    <li>SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" /></li>
+    <li>VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" /></li>
+    <li>Docker <img src="https://cdn.simpleicons.org/docker/2496ED" height="20" /></li>
+    <li>HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" /></li>
+    <li>CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" /></li>
+    <li>Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" /></li>
+    <li>Godot Engine <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="20" /></li>
+    <li>Unity <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="20" /></li>
+    <li>Git <img src="https://cdn.simpleicons.org/git/F05032" height="20" /></li>
+  </ul>
 </div>
 
 ###
