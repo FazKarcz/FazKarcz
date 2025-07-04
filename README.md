@@ -1,49 +1,27 @@
 <h2 align="left">Hi 👋, I'm Jakub Karcz</h2>
 
-###
-
 <p align="left">An aspiring developer with a focus on Python, Machine Learning, and backend technologies.</p>
-
-###
 
 <p align="left">🚀 Languages and Tools I Use:</p>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" alt="django" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" alt="oracle" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="20" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="20" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="20" alt="godot" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="20" alt="unity" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git" />
 </div>
 
 ###
