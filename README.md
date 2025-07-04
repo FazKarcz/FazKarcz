@@ -5,23 +5,7 @@
 <p align="left">🚀 Languages and Tools I Use:</p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="10" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" alt="django" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" alt="pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" alt="oracle" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="20" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="20" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="20" alt="godot" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="20" alt="unity" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git" />
+<table> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /> C#</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" /> C++</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" /> Django</td> <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" /> PyTorch</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" /> Pandas</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="20" /> Oracle DB</td> <td><img src="https://cdn.simpleicons.org/mysql/4479A1" height="20" /> MySQL</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" /> SQLite</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" /> VS Code</td> <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="20" /> Docker</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" /> HTML5</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" /> CSS3</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" /> Linux</td> <td><img src="https://cdn.simpleicons.org/godotengine/478CBF" height="20" /> Godot Engine</td> </tr> <tr> <td><img src="https://cdn.simpleicons.org/unity/FFFFFF" height="20" /> Unity</td> <td><img src="https://cdn.simpleicons.org/git/F05032" height="20" /> Git</td> </tr> </table>
 </div>
 
 ###
