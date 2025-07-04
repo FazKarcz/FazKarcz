@@ -5,90 +5,90 @@
 <p align="left">🚀 Languages and Tools I Use:</p>
 
 <div align="center">
-<ul>
-  <table>
-    <tr>
-      <td align="center">
-        Python <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-      </td>
-      <td align="center">
-        C# <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" />
-      </td>
-      <td align="center">
-        C++ <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        Django <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
-      </td>
-      <td align="center">
-        PyTorch <br>
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="20" />
-      </td>
-      <td align="center">
-        Pandas <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        Oracle <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20" />
-      </td>
-      <td align="center">
-        MySQL <br>
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="20" />
-      </td>
-      <td align="center">
-        SQLite <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        VS Code <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" />
-      </td>
-      <td align="center">
-        Docker <br>
-        <img src="https://cdn.simpleicons.org/docker/2496ED" width="20" />
-      </td>
-      <td align="center">
-        HTML5 <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        CSS3 <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" />
-      </td>
-      <td align="center">
-        Linux <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" />
-      </td>
-      <td align="center">
-        Godot <br>
-        <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="20" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        Unity <br>
-        <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="20" />
-      </td>
-      <td align="center">
-        Git <br>
-        <img src="https://cdn.simpleicons.org/git/F05032" width="20" />
-      </td>
-      <td></td>
-    </tr>
-  </table>
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Python <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    C# <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    C++ <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Django <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    PyTorch <br>
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Pandas <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Oracle <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    MySQL <br>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    SQLite <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    VS Code <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Docker <br>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    HTML5 <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    CSS3 <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Linux <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Godot <br>
+    <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Unity <br>
+    <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="25"/>
+  </div>
+
+  <div style="display: inline-block; width: 30%; text-align: center; margin: 10px;">
+    Git <br>
+    <img src="https://cdn.simpleicons.org/git/F05032" width="25"/>
+  </div>
 </div>
 </div>
 
