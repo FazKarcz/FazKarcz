@@ -4,77 +4,92 @@
 
 <p align="left">🚀 Languages and Tools I Use:</p>
 
-<div align="left">
+<div align="center">
 <ul>
-    <li>
-      Python 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      C# 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      C++ 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Django 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      PyTorch 
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Pandas 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Oracle DB 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      MySQL 
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      SQLite 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      VS Code 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Docker 
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      HTML5 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      CSS3 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Linux 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Godot Engine 
-      <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Unity 
-      <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-    <li>
-      Git 
-      <img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16" style="vertical-align: middle;" />
-    </li>
-  </ul>
+  <table>
+    <tr>
+      <td align="center">
+        Python <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+      </td>
+      <td align="center">
+        C# <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" />
+      </td>
+      <td align="center">
+        C++ <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Django <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
+      </td>
+      <td align="center">
+        PyTorch <br>
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="20" />
+      </td>
+      <td align="center">
+        Pandas <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Oracle <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20" />
+      </td>
+      <td align="center">
+        MySQL <br>
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="20" />
+      </td>
+      <td align="center">
+        SQLite <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        VS Code <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" />
+      </td>
+      <td align="center">
+        Docker <br>
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="20" />
+      </td>
+      <td align="center">
+        HTML5 <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        CSS3 <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" />
+      </td>
+      <td align="center">
+        Linux <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" />
+      </td>
+      <td align="center">
+        Godot <br>
+        <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="20" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Unity <br>
+        <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="20" />
+      </td>
+      <td align="center">
+        Git <br>
+        <img src="https://cdn.simpleicons.org/git/F05032" width="20" />
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 </div>
 
 ###
