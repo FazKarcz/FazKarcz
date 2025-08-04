@@ -1,4 +1,4 @@
-<h2 align="left">Hi 🐈 ྀི, I'm Jakub Karcz</h2>
+<h2 align="left">Hi 🐈 ྀ, I'm Jakub Karcz</h2>
 
 <p align="left">An aspiring developer with a focus on Python, Machine Learning, and backend technologies.</p>
 
