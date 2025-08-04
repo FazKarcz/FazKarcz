@@ -1,8 +1,8 @@
-<h2 align="left">Hi 🐈 ྀ, I'm Jakub Karcz</h2>
+<h2 align="left">Hello 🐈 , I'm Jakub Karcz</h2>
 
-<p align="left">An aspiring developer with a focus on Python, Machine Learning, and backend technologies.</p>
+<p align="left">An aspiring developer with a focus on Python, Machine Learning, backend technologies, and visual studio code enjoyer!</p>
 
-<p align="left">🚀 Languages and Tools I Use:</p>
+<p align="left">Languages and Tools I Use:</p>
 
 <div align="center">
 <table>
